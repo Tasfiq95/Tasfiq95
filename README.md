@@ -5,17 +5,13 @@
   <a href="https://tasfiq95.github.io"><img src="https://img.shields.io/badge/Portfolio-tasfiq95.github.io-64ffda?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/fazle-mohammed-tasfiq/"><img src="https://img.shields.io/badge/LinkedIn-Fazle%20Mohammed%20Tasfiq-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:mohammad.tasfiq@gmail.com"><img src="https://img.shields.io/badge/Email-mohammad.tasfiq@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Location-Dhaka,%20Bangladesh-2ea44f?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
 ---
 
 ### About
 
-- Final-year B.Sc. Computer Science and Engineering student at **BRAC University**, expected September 2026, CGPA **3.78 / 4.00**.
-- I build full-stack platforms end to end — payment flows, role-based dashboards, REST APIs — across Laravel/Vue and Node/Express.
-- I'm also doing ongoing ML/NLP research: a multilingual RAG evaluation pipeline, where I built the web-scraping, dataset-curation, and LLM-based QA-generation work for the Tamil track of a 5-language benchmark, evaluated 4 LLMs, then built and evaluated a RAG pipeline (publication in progress); and a medical-image security study comparing CNN architectures under chaotic image encryption with Grad-CAM interpretability (ongoing research paper).
-- Currently looking for internship or full-time opportunities in **software**, **AI/ML**, or **research**.
+Final-year B.Sc. Computer Science and Engineering student at **BRAC University**, expected September 2026, CGPA **3.78 / 4.00**. I build full-stack platforms end to end — payment flows, role-based dashboards, REST APIs — across Laravel/Vue and Node/Express. Currently looking for internship or full-time opportunities in **software**, **AI/ML**, or **research**.
 
 ---
 
@@ -25,10 +21,6 @@
 | ------- | ---------------- | ----- |
 | **HelpRelief** | Disaster-relief coordination platform. Shipped the volunteer/NGO-staff dashboards, profile management, live campaign/state views, and the Laravel REST APIs behind task-completion and reporting metrics. | `Vue.js` `Laravel` `PostgreSQL` `TailwindCSS` |
 | **Kinder** | Babysitter-booking platform. Built the SSLCommerz payment flow end to end — records, transaction IDs, fee calculation, gateway callbacks — plus the parent booking-payment UI. | `React` `Node.js` `Express` `MongoDB` |
-| **RAG Evaluation for Multilingual QA** | Built the web-scraping, dataset-curation, and LLM-based QA-generation pipeline for the Tamil track of a 5-language multilingual RAG benchmark, working across the shared pipeline design with the team. Evaluated 4 LLMs on direct QA, then built and evaluated a RAG pipeline. Publication in progress. | `Python` `LangChain` `LangGraph` `LlamaIndex` `ChromaDB` |
-| **QA Classification (Course Project)** | Implemented a BiLSTM classifier (embedding layer, bidirectional LSTM, dense softmax head) trained on GloVe and Skip-gram embeddings, benchmarked against TF-IDF/BoW Logistic Regression, Random Forest, and unidirectional LSTM baselines. | `Python` `Keras` `Scikit-learn` `NLTK` |
-| **Medical Image Security Research** | Building an encryption-decryption image-security pipeline across 5 CNN architectures on brain tumor MRI and COVID-19 scans, using chaotic map-based image encryption to stress-test model robustness. Grad-CAM interpretability. Ongoing research paper. | `Python` `PyTorch` `CNNs` `Grad-CAM` |
-| **Course Projects** | Smart City healthcare network (VLSM/DHCP design in Packet Tracer), an EMU8086 Battleship game (2-person team, majority contribution), PickPaw pet-adoption filtering, and a Water Potability ML classifier. | `x86 Assembly` `Cisco Packet Tracer` `PHP` `Scikit-learn` |
 
 ---
 
@@ -57,3 +49,15 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tasfiq95&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasfiq95&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=Tasfiq95&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
