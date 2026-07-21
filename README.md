@@ -21,6 +21,8 @@ Final-year B.Sc. Computer Science and Engineering student at **BRAC University**
 | ------- | ---------------- | ----- |
 | **HelpRelief** | Disaster-relief coordination platform. Shipped the volunteer/NGO-staff dashboards, profile management, live campaign/state views, and the Laravel REST APIs behind task-completion and reporting metrics. | `Vue.js` `Laravel` `PostgreSQL` `TailwindCSS` |
 | **Kinder** | Babysitter-booking platform. Built the SSLCommerz payment flow end to end — records, transaction IDs, fee calculation, gateway callbacks — plus the parent booking-payment UI. | `React` `Node.js` `Express` `MongoDB` |
+| **QA Classification** | Implemented a BiLSTM classifier (embedding layer, bidirectional LSTM, dense softmax head) trained on GloVe and Skip-gram embeddings, benchmarked against classical ML and other DL baselines. | `Python` `Keras` `Scikit-learn` `NLTK` |
+| **Battleship** | Built the majority of a 2-person team's x86 Assembly Battleship game: 8x8 grid, BIOS-clock-seeded ship placement, hit/miss tracking, and a scoring system across multiple difficulty levels. | `x86 Assembly` `EMU8086` |
 
 ---
 
