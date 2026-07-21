@@ -51,14 +51,3 @@ Final-year B.Sc. Computer Science and Engineering student at **BRAC University**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="./generated/metrics.svg" alt="GitHub metrics"/>
-</p>
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=Tasfiq95&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
