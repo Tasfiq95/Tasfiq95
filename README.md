@@ -57,8 +57,7 @@ Final-year B.Sc. Computer Science and Engineering student at **BRAC University**
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="./generated/overview.svg" alt="GitHub stats"/>
-  <img height="165" src="./generated/languages.svg" alt="Top languages"/>
+  <img src="./generated/metrics.svg" alt="GitHub metrics"/>
 </p>
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=Tasfiq95&theme=tokyonight&hide_border=true" alt="GitHub streak"/>

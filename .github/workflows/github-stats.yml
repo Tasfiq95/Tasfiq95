@@ -9,9 +9,13 @@ jobs:
   update-stats:
     runs-on: ubuntu-latest
     timeout-minutes: 5
+    permissions:
+      contents: write
     steps:
-      - name: Generate stats images and commit them to the repo
-        uses: jstrieb/github-stats@master
+      - name: Generate metrics image and commit it to the repo
+        uses: lowlighter/metrics@latest
         with:
-          username: Tasfiq95
-          access_token: ${{ secrets.ACCESS_TOKEN }}
+          filename: generated/metrics.svg
+          token: ${{ secrets.ACCESS_TOKEN }}
+          base: header, activity, community, repositories
+          config_timezone: Asia/Dhaka
