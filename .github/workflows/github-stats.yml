@@ -1,0 +1,17 @@
+name: Generate GitHub stats images
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Generate stats images and commit them to the repo
+        uses: jstrieb/github-stats@master
+        with:
+          username: Tasfiq95
+          access_token: ${{ secrets.ACCESS_TOKEN }}

@@ -57,8 +57,8 @@ Final-year B.Sc. Computer Science and Engineering student at **BRAC University**
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tasfiq95&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasfiq95&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="165" src="./generated/overview.svg" alt="GitHub stats"/>
+  <img height="165" src="./generated/languages.svg" alt="Top languages"/>
 </p>
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=Tasfiq95&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
