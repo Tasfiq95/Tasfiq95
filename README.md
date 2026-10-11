@@ -11,7 +11,7 @@
 
 ### About
 
-Final-year B.Sc. Computer Science and Engineering student at **BRAC University**, expected September 2026, CGPA **3.78 / 4.00**. I build full-stack platforms end to end — payment flows, role-based dashboards, REST APIs — across Laravel/Vue and Node/Express. Currently looking for internship or full-time opportunities in **software**, **AI/ML**, or **research**.
+Final-year B.Sc. Computer Science and Engineering student at **BRAC University**, expected September 2026, CGPA **3.81 / 4.00**. I build full-stack platforms end to end — payment flows, role-based dashboards, REST APIs — across Laravel/Vue and Node/Express. Currently looking for internship or full-time opportunities in **software**, **AI/ML**, or **research**.
 
 ---
 
